@@ -86,6 +86,9 @@ OUTPUT:-<br>
 1):-<br>
 ![exp10](https://github.com/VandanGupte101727/CDS-experiment-10/blob/main/Screenshot%202024-08-26%20at%208.44.42%20PM.png)<br>
 
+2):-<br>
+![exp10](https://github.com/VandanGupte101727/CDS-experiment-10/blob/main/Screenshot%202024-08-26%20at%208.44.19%20PM.png)<br>
+
 
 Conclusion:-<br>
 in this experiment we learnt to use call by value and call by reference pointers in c++<br>
